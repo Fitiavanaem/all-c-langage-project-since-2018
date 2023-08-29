@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1563882566 source:f:\progrmtion\fichier\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1563875366 source:e:\progrmtion\codeblocs\nbrocc\main.c
+	<stdio.h>
+	<stdlib.h>
+

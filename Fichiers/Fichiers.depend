@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1563906724 source:f:\progrmtion\fichiers\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1563907951 source:f:\progrmtion\codeblocs\fichiers\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1564513896 source:e:\progrmtion\codeblocs\fichiers\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1564517496 source:f:\programmation\codeblocs\fichiers\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

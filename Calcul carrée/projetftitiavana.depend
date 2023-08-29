@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1542286778 source:e:\langage c\calcul carrée\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1542290793 source:f:\programmation\codeblocs\calcul carrée\main.c
+	<stdio.h>
+	<stdlib.h>
+
